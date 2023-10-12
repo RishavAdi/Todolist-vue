@@ -13,12 +13,12 @@ These instructions will help you set up and run the project on your local machin
 Prerequisites
 Node.js and npm should be installed on your machine.
 Installation
-Clone the repository to your local machine.
-git clone https://github.com/yourusername/vue-todo-list.git
-Change the working directory to the project's root folder.
-cd vue-todo-list
-Install the required dependencies.
-npm install
-Start the development server.
-npm run dev
+Clone the repository to your local machine->
+git clone https://github.com/yourusername/vue-todo-list.git.
+Change the working directory to the project's root folder->
+cd vue-todo-list.
+Install the required dependencies->
+npm install.
+Start the development server->
+npm run dev.
 Open your web browser and go to http://localhost:8080/ to access the application.
